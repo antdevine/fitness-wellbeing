@@ -30,7 +30,9 @@ export default {
   components: {
     dirs: [
       '~/components',
-      '~/components/Atom'
+      '~/components/Atom',
+      '~/components/Molecule',
+      '~/components/Organism',
     ]
   },
 
